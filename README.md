@@ -16,9 +16,9 @@
   <!-- Instructions -->
   <h2 style="color: #bb86fc; border-left: 4px solid #6a0dad; padding-left: 10px; margin-top: 25px;">🔮 Instructions</h2>
   <ol style="color: #ffffff; line-height: 1.8; padding-left: 25px; font-size: 16px;">
-    <li style="margin-bottom: 10px;"><span style="color: #bb86fc; font-weight: bold; text-shadow: 0 0 5px rgba(187, 134, 252, 0.3);">Open Valorant</span> - Launch the game client</li>
-    <li style="margin-bottom: 10px;"><span style="color: #bb86fc; font-weight: bold; text-shadow: 0 0 5px rgba(187, 134, 252, 0.3);">Run this program</span> - Execute the Python script</li>
-    <li style="margin-bottom: 10px;"><span style="color: #bb86fc; font-weight: bold; text-shadow: 0 0 5px rgba(187, 134, 252, 0.3);">Select Agent & Region</span> - Choose your preferences</li>
+    <li style="margin-bottom: 10px;"><span style="color: #bb86fc; font-weight: bold; text-shadow: 0 0 5px rgba(187, 134, 252, 0.3);">Open Valorant</span>client</li>
+    <li style="margin-bottom: 10px;"><span style="color: #bb86fc; font-weight: bold; text-shadow: 0 0 5px rgba(187, 134, 252, 0.3);">Run this program</span></li>
+    <li style="margin-bottom: 10px;"><span style="color: #bb86fc; font-weight: bold; text-shadow: 0 0 5px rgba(187, 134, 252, 0.3);">Select Agent & Region</span></li>
     <li style="margin-bottom: 10px;"><span style="color: #bb86fc; font-weight: bold; text-shadow: 0 0 5px rgba(187, 134, 252, 0.3);">Click "Lock"</span> - Wait for the magic 🪄</li>
   </ol>
 
