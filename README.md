@@ -7,7 +7,7 @@
   
   <!-- Subtitle -->
   <p style="text-align: center; color: #9e7dce; margin-top: 0; font-style: italic;">
-    Lightning-fast agent selection tool. FT <a href="https://github.com/yukixyz" style="color: #d4b2ff; text-decoration: none; font-weight: bold;">@yukixyz</a>
+    Faster agent selection tool. FT <a href="https://github.com/yukixyz" style="color: #d4b2ff; text-decoration: none; font-weight: bold;">@yukixyz</a>
   </p>
 
   <!-- Divider -->
