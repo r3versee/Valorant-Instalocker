@@ -30,7 +30,7 @@
   <!-- Footer -->
   <div style="margin-top: 40px; text-align: center;">
     <p style="color: #6a0dad; font-size: 13px; letter-spacing: 1px;">
-      ✨ Made with ♥ for Valorant players | v1.0 ✨
+      ✨ Valocker v1.0
     </p>
   </div>
 </div>
